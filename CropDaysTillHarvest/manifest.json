@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Crop Days Till Harvest",
+  "Author": "Andrew",
+  "Version": "0.2.0",
+  "Description": "Tutorial completion",
+  "UniqueID": "Andrew.CropDaysTillHarvest",
+  "EntryDll": "CropDaysTillHarvest.dll",
+  "MinimumApiVersion": "2.6-beta.15",
+  "UpdateKeys": []
+}
