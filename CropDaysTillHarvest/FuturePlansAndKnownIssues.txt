@@ -2,7 +2,6 @@
 If you harvest a regrowing crop, checking it again will still say it's ready to be harvested
 	before you harvest, it may also say X days till harvest
 
-Can't ID crops in the green house
 
 ===============Future Plans=====================
 
