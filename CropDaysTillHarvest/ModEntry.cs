@@ -118,7 +118,7 @@ namespace Tutorial
          {
             //in a regrow forever till dead situation
             DebugMessage(numOfDaysRemaining == 0, "In a regrow, but have num of days remaining. Look into!");
-            numOfDaysRemaining = crop.regrowAfterHarvest.Value - crop.dayOfCurrentPhase.Value;
+            numOfDaysRemaining = crop.regrowAfterHarvest.Value - crop.dayOfCurrentPhase.Value; //so, before harvest crop.dayOfCurrentPhase is 0, after harvest it is 4 (or something) similar...
          }
          else
          {
